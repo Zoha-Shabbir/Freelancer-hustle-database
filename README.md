@@ -11,6 +11,8 @@ I wanted to practice writing real-world SQL and understand how freelancing platf
 - SQL table creation with constraints
 - Views, queries, stored procedures, functions, triggers
 - Sample data and reports
-  📥 [Download Project PDF](FREELANCER HUSTLE.pdf)
+  <br>
+📥 [Download Project PDF](FreelancerHustle-DB.pdf)
+
 
 👩‍💻 Built by Zoha Shabbir
