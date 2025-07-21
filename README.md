@@ -12,7 +12,7 @@ I wanted to practice writing real-world SQL and understand how freelancing platf
 - Views, queries, stored procedures, functions, triggers
 - Sample data and reports
   <br>
-📥 [Download Project PDF](FreelancerHustle-DB.pdf)
+📥 [Download Project PDF](FreelancerHustleDB.pdf)
 
 
 👩‍💻 Built by Zoha Shabbir
